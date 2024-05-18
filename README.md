@@ -16,4 +16,3 @@ Custom Hash Set Implementation: Manages collisions and maintains an efficient ma
 Collision Handling: Demonstrates a unique approach to handle collisions by storing vertex data only if it's not already present.
 
 Data Retrieval: Offers methods to retrieve original vertex data and their respective indices in a formatted manner.
-How to Run
